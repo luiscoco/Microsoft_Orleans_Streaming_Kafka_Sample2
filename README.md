@@ -1,2 +1,5 @@
-# Microsoft_Orleans_Streaming_Kafka_Sample2
-Microsoft Orleand Stream Kafka
+# Microsoft Orleans Streaming Kafka
+
+https://www.nuget.org/packages/Orleans.Streams.Kafka
+
+https://github.com/jonathansant/Orleans.Streams.Kafka/tree/master
